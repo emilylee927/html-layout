@@ -1,0 +1,59 @@
+body{
+    background-color:white;
+    margin:0;
+}
+
+.header{
+    height:10vh;
+    background-color:#d6d6d6;
+}
+
+.smallBlue{
+    height: 4em;
+    width: 4em;
+    background-color:rgb(37, 131, 194);
+    position: absolute;
+    top:8px;
+    left:1em;
+}
+
+.blueBox{
+    height: 14vh;
+    width: 100%;
+    background-color:rgb(37, 131, 194);
+    position:absolute;
+    top:23em;
+}
+
+.weirdBox{
+        height: 14vh;
+        width: 100%;
+        background-color:rgb(79, 212, 190);
+        position:absolute;
+        top:30em;
+}
+
+.greenBox{
+    height: 14vh;
+        width: 100%;
+        background-color:rgb(203, 223, 151);
+        position:absolute;
+        top:37em;
+}
+
+.yellowBox{
+    height: 14vh;
+    width: 100%;
+    background-color:rgb(253, 237, 89);
+    position:absolute;
+    bottom:0;
+}
+
+p{
+    
+    max-width: 55em;
+    position: absolute;
+    top: 6em;
+    left:100px;
+    font-size:20px;
+}

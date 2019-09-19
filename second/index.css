@@ -1,0 +1,90 @@
+body{
+    background-color:white;
+    padding:5px;
+
+}
+
+.header-box{
+    border: 5px solid black ;
+    width: 100%;
+    height:30vh;
+    box-sizing: border-box;
+    padding: 10px;
+    background:transparent;
+}
+
+.main-center{
+    border: 5px dotted black ;
+    width: 100%;
+    height:30vh;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-top: 20px;
+    margin-top:25px;
+    background: transparent;
+}
+
+.footer{
+    border: 1px solid ccc;
+    width:40%;
+    height: 39vh;
+    box-sizing: border-box;
+    padding:10px;
+    margin: 25px auto;
+    float: center;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.54)
+    ;
+
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color:navy;
+    padding: 18%;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.purpleShape{
+    background-color:purple;
+    height:15vh;
+    width: 3vh;
+    float:left;
+    padding: 10px;
+    top: 5em;
+    left: 2em;
+    position:absolute;
+}
+
+.greenSquare{
+    background-color: green;
+    height:13em;
+    width: 25em;
+    position: absolute;
+    top:30px;
+    left: 9em;
+}
+
+.blueCircle {
+    height: 13em;
+    width: 13em;
+    background-color:rgba(145, 220, 255, 0.856);
+    border-radius: 90%;
+    position: absolute;
+    top:34px;
+    left:39em;
+  }
+
+  .weirdYellow{
+    background-color: rgb(247, 246, 204);
+    height: 20vh;
+    width: 70em;
+    position: absolute;
+    top: 20em;
+    left: 12em;
+    box-shadow: 5px 7px 13px -1px rgba(0,0,0,0.86);
+
+
+
+  }

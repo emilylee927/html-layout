@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(226, 226, 226);
+    margin:0;
+    
+}
+.header{
+    height:20vh;
+    background-color:#444444;
+}
+
+.main-center{
+    background-color:#EFEFEF;
+    width: 70%;
+    height:80vh;
+    margin:auto;
+}
+
+.footer{
+    background-color: black;
+    width:70%;
+    height:9vh;
+    margin:auto;
+}
